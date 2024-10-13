@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Executable files
+setup.exe
+uninstall.exe
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
